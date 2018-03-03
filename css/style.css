@@ -1,0 +1,182 @@
+body{
+	margin:0px;
+}
+
+
+
+h1{
+	color:#1070A0;
+	margin-left: 9%;
+	font-size: 418%;
+}
+	
+	
+#ol{
+	margin-bottom: 3%;
+	margin-top: -3.5%;
+	margin-left: 15.5%;
+	
+}
+ 
+    
+	
+
+.carré{
+    display: inline-block;
+	margin-right: 0.7%;
+	margin-bottom: 0%;
+	
+	font-size:100%;
+	color: white;
+	 width:1%;
+    background:#1070A0;
+    height:.1.3%;
+    text-align: center;
+
+    
+
+}
+.nav{
+	background-color:#1070A0;
+	width:80%;
+	height:110%;
+	
+	margin-left: 8%;
+
+
+}
+.nav li{
+	font-size:180%;
+	display: inline;
+	margin-right: 3%;
+	padding:1%;
+	height:3%;
+	width:5%;
+	
+}
+.nav a {
+	color:white;
+}
+#colonne1
+{
+   width:6%; 
+   height:1200px; 
+   background-color:silver ; 
+   float:left;
+   
+   margin-top: -7%;
+}
+ 
+#colonne2
+{
+   width:7%; 
+   height:1200px; 
+   background-color:silver; 
+   float:right;
+   margin-top: -7%;
+   
+}
+.insert {
+	position:absolute;
+	margin-left: 2%;
+	margin-top: 3%;
+	z-index: 1;
+}
+#premier{
+	position: absolute;
+	color:white;
+	font-size: 149%;
+	z-index: 1000;
+	margin-left:9%;
+	margin-top: 34.2%;
+	font-weight: bold;
+}
+#news{
+	position:absolute;
+	color:white;
+	width:3%;
+	height:2%;
+	background-color: #1070A0;
+	margin-left:8%;
+	padding: 1%;
+	margin-top: 3%;
+	z-index: 1000;
+	font-size:90%;
+
+}
+#imp{position:absolute;
+	z-index: 1;
+	margin-top: 3%;
+	display:inline-block;
+	margin-left: 50%;
+	width:35%;
+	height:40%;
+}
+#deusieme{
+	position:absolute;
+	color:white;
+	font-size: 120%;
+	z-index: 1000;
+	font-weight: bold;
+	margin-left:56.7%;
+	margin-top: 20%;
+}
+#marché{
+	position:absolute;
+	color:white;
+	width:3%;
+	height:2%;
+	background:#1070A0;
+	margin-left: 56%;
+	padding:1%;
+	z-index: 1000;font-size:80%;
+	margin-top: 3%;
+}
+#world{
+	position:absolute;
+	z-index: 1;
+	margin-bottom: 15%;
+	margin-left: 50%;
+	width:35%;
+	height:30.3%;
+	margin-top: 23%;
+}
+#troisieme{
+	position:absolute;
+	color:white;
+	font-size:93%;
+	z-index: 1000;
+	font-weight: bold;
+	margin-left: 56.8%;
+	margin-top: 36.3%;
+
+}
+#article{
+	position:absolute;
+	color:white;
+	width:3.5%;
+	height:2%;
+	background: #1070A0;
+	margin-left: 55.9%;
+	padding:1.1%;
+	z-index: 1000;
+	margin-top: 23%;
+}
+#efas{
+	
+	
+	background-color: white;
+	width:7%;
+	height:6%;
+	margin-top: 30%;
+	color: white;
+}
+#test{
+	margin-left: 10%;
+	width:30%;
+	height:20%;
+}
+	
+	
+
+
